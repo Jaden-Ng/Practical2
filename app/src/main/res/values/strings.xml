@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="head">6 places to know more about SG!</string>
+    <string name="hawker">Hawker Centre</string>
+    <string name="chinatown">Chinatown</string>
+    <string name="garden">Gardens by the Bay</string>
+    <string name="luge">Skyline Luge Sentosa</string>
+    <string name="adventureCove">Adventure Cove Waterpark</string>
+    <string name="orchard">Orchard Road</string>
+    <string name="details">More details</string>
+    <string name="website">website</string>
+</resources>
